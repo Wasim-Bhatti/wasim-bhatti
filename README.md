@@ -2,7 +2,7 @@
 
 `Developer` • `Designer` • `Product Enthusiast`
 
-I design and build digital experiences using code.
+I design and build digital experiences that feel intuitive.
 
 ## Tech Stack
 
