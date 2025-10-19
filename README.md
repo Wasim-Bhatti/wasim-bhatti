@@ -1,8 +1,8 @@
 # Wasim Bhatti
 
-`Developer` • `Designer` • `Product Enthusiast`
+`Developer` • `Designer` • `Product Enthusiast` 
 
-I design and build digital experiences that feel intuitive.
+I design products and systems that feel both practical and human.
 
 ## Tech Stack
 
