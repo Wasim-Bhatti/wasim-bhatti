@@ -1,16 +1,13 @@
 # Wasim Bhatti
 
-`Developer` • `Designer` • `Product Enthusiast` 
+`Product Designer & Developer` 
 
-I design products and systems that feel both practical and human.
+Building stuff I would use myself. 
 
 ## Tech Stack
 
 ```python
-languages = ['Python', 'JavaScript', 'TypeScript', 'SQL (Postgres)']
-frameworks = ['React (Next.js)', 'Node.js', 'FastAPI', 'TailwindCSS']
-tools = ['Git', 'Docker', 'AWS', 'Figma', 'Vercel', 'Jira']
-libraries = ['Pandas', 'MatPlotLib']
+Coherent natural language
 ```
 
 ## 🔗 Connect
