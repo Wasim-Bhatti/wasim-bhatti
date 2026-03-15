@@ -2,12 +2,12 @@
 
 `Product Designer & Developer` 
 
-Building stuff I would use myself. 
+Building stuff I would use myself
 
 ## Tech Stack
 
 ```python
-Coherent natural language
+Coherent language skills, taste, and systems thinking
 ```
 
 ## 🔗 Connect
